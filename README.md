@@ -1,0 +1,4 @@
+capistranotest
+==============
+
+Capistrano Testing
